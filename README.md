@@ -14,10 +14,6 @@ Reconocimiento-Facial/
 │ └── [fotos].jpg # Imágenes de personas conocidas
 └── README.md # Este archivo
 
-markdown
-Copiar
-Editar
-
 ## ⚙️ Tecnologías Usadas
 
 - **Python 3**
