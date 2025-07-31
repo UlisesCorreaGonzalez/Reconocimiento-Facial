@@ -5,7 +5,6 @@ Sistema de reconocimiento facial con servidor en Python y una interfaz web en HT
 ## 🗂 Estructura del Proyecto
 
 Reconocimiento-Facial/
-│
 ├── app.py # Servidor Flask principal
 ├── static/
 │ └── script.js # Lógica en JavaScript para actualizar info en tiempo real
@@ -59,9 +58,3 @@ Puedes expandir el sistema agregando más datos o conectándolo con bases de dat
 
 👤 Autor
 Ulises Correa – Practicante de Procesos
-
-go
-Copiar
-Editar
-
-Si quieres le agregamos instrucciones para modificar el `script.js` y poner más datos personalizados al reconocer personas. ¿Quieres?
